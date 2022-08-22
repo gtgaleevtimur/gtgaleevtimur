@@ -1,7 +1,7 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
-<div id="badges">
+<div id="badges" align="center">
   <a href="https://career.habr.com/gtijidi">
     <img src="https://img.shields.io/badge/%D0%A5%D0%B0%D0%B1%D1%80%D0%9A%D0%B0%D1%80%D1%8C%D0%B5%D1%80%D0%B0-blue?style=for-the-badge&logo=habr&logoColor=white"/>
   </a>
