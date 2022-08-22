@@ -9,3 +9,4 @@
     <img src="https://img.shields.io/badge/email-white?style=for-the-badge&logo=gmail&logoColor=color"/>
   </a>
 </div>
+<img src="https://komarev.com/ghpvc/?username=gtgaleevtimur&style=flat-square&color=blue" alt=""/>
