@@ -47,3 +47,9 @@ I am a Golang Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBt
   <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="60" height="60"/>&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/bash/bash-original.svg" title="bash" alt="bash" width="60" height="60"/>&nbsp;
 </div>
+
+---
+
+### :fire: My Stats :
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=gtgaleevtimur&theme=dark&background=000000)](https://git.io/streak-stats)
