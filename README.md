@@ -23,7 +23,7 @@
 
 I am a Golang Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Russia.
 
-- :telescope: I work as a chief welder in a research and production enterprise.
+- :telescope: I work as a junior golang developer now.
 
 - :seedling: Сurrently looking for a job as a developer.
 
@@ -50,7 +50,7 @@ I am a Golang Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBt
 
 ---
 
-### :fire: My Stats :
+### :fire:It's My Stats :
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=gtgaleevtimur)](https://git.io/streak-stats)
 
