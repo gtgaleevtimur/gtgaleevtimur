@@ -50,7 +50,7 @@ I am a Golang Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBt
 
 ---
 
-### :fire:It's My Stats :
+### :fire: My Stats :
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=gtgaleevtimur)](https://git.io/streak-stats)
 
