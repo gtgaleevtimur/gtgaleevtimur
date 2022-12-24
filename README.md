@@ -23,7 +23,7 @@
 
 I am a Golang Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Russia.
 
-- :telescope: I work as a junior golang developer now.
+- :telescope: I work as a golang developer back end now.
 
 - :seedling: Сurrently looking for a job as a developer.
 
