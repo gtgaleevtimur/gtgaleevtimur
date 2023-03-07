@@ -28,7 +28,7 @@ I am a Golang Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBt
 
 - :telescope: I work as a golang developer back end now.
 
-- :seedling: Сurrently looking for a job as a developer.
+- :seedling: Сurrently i work as a backend-developer.
 
 - :zap: In my free time, I write code in Golang,solve academic issues and learn new things.
 
