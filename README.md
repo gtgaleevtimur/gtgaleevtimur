@@ -24,13 +24,11 @@
 
 ### :technologist: About Me :
 
-I am a Golang Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Russia.
+The one who changed his life at the training courses:
 
-- :telescope: I work as a golang developer back end now.
+- :telescope: Thirty-three years old golang developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Russia.
 
-- :seedling: Сurrently i work as a backend-developer.
-
-- :zap: In my free time, I write code in Golang,solve academic issues and learn new things.
+- :zap: In my free time, I like to read a book, play digital games, and torture myself with physical exertion..
 
 ---
 
