@@ -28,7 +28,7 @@ The one who changed his life at the training courses:
 
 - :telescope: Thirty-three years old golang developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">.
 
-- :zap: In my free time, I like to read a book, play digital games, and torture myself with physical exertion..
+- :zap: In my free time, I like to read a book, play digital games, and torture myself with physical exertion.
 
 ---
 
